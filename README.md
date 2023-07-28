@@ -46,18 +46,19 @@ A API poderá ser acessada em [localhost:8080/task](http://localhost:8080/tasks)
 
 - Criar tarefa
 
+![Criar tarefa](https://github.com/Thalles-Eduardo/CRUD-Spring-Boot/assets/69612509/334c9a08-c054-439c-b7d8-6d4e7d88b586)
 
+- Atualizar tarefa pelo id
 
+![Atualizar tarefa](https://github.com/Thalles-Eduardo/CRUD-Spring-Boot/assets/69612509/a127e09f-ec2d-4696-9399-93d59cf65853)
 
-- Atualizar tarefa
+- Deletar tarefa pelo id
 
-
-- Deletar tarefa
-
+![Deletar tarefa](https://github.com/Thalles-Eduardo/CRUD-Spring-Boot/assets/69612509/28389335-5ea7-4bd4-8fd0-e861132a8431)
 
 - Listar tarefa
 
-
+![Listar tarefa](https://github.com/Thalles-Eduardo/CRUD-Spring-Boot/assets/69612509/f8ef9f7c-82a0-44f5-9d7a-b1d7157f2cf3)
 
 
 # Author
