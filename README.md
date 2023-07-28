@@ -65,4 +65,4 @@ A API poderá ser acessada em [localhost:8080/task](http://localhost:8080/tasks)
 
 Thalles Eduardo Dias da Silva
 
-- [Linkedin](linkedin.com/in/thalles-eduardo-7297a6237)
+- [Linkedin](https://linkedin.com/in/thalles-eduardo-7297a6237)
