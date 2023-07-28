@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  To-do-List
+  CRUD-API
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-API para gerenciar uma lista de tarefas, com as opções de CRUD padrão, mas a base de todo desenvolvedor.
+Foi desenvolvido e explicado como construir um CRUD (create, read, update e delete), a base de todo desenvolvedor.
 
 
 ## Tecnologias
@@ -19,6 +19,7 @@ API para gerenciar uma lista de tarefas, com as opções de CRUD padrão, mas a 
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Lombok](https://projectlombok.org)
 - [Validation](https://spring.io/guides/gs/validating-form-input/)
+- [Swagger](https://swagger.io)
 
 ## Práticas adotadas
 
@@ -39,22 +40,28 @@ git clone
 ./mvnw spring-boot:run
 ```
 
-A API poderá ser acessada em [localhost:8080/task](http://localhost:8080/tasks) ou pelo [Swagger]().
+A API poderá ser acessada em [localhost:8080/task](http://localhost:8080/tasks) ou pelo [Swagger](http://localhost:8080/swagger-ui/index.html).
 
 ## API Endpoints
 
-- Criar Task
-
-![Adicionar](https://github.com/Thalles-Eduardo/To-do-list-Spring-boot/assets/69612509/16e3092f-58ca-44c1-b3c2-bb494ea4b52d)
+- Criar tarefa
 
 
-- Excluir apenas uma task
-
-![Excluir](https://github.com/Thalles-Eduardo/To-do-list-Spring-boot/assets/69612509/ee601366-2cd0-474a-914a-71c44d423ff6)
 
 
-- Excluir todas as tasks 
-
-![Excluir todas](https://github.com/Thalles-Eduardo/To-do-list-Spring-boot/assets/69612509/87316a08-b590-465b-b5a0-92797fc1f541)
+- Atualizar tarefa
 
 
+- Deletar tarefa
+
+
+- Listar tarefa
+
+
+
+
+# Author
+
+Thalles Eduardo Dias da Silva
+
+- [Linkedin](linkedin.com/in/thalles-eduardo-7297a6237)
