@@ -32,7 +32,7 @@ Foi desenvolvido e explicado como construir um CRUD (create, read, update e dele
 
 - Clonar repositório git
 ```bash
-git clone 
+git clone https://github.com/Thalles-Eduardo/CRUD-Spring-Boot
 ```
 
 - Executar a aplicação:
