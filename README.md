@@ -5,9 +5,9 @@
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257E5&labelColor=000000" alt="License" />
+    <img src="https://github.com/Thalles-Eduardo/CRUD-Spring-Boot/actions/workflows/maven.yml/badge.svg" alt="License" />
 </p>
 
-[![CRUDSpringBoot](https://github.com/Thalles-Eduardo/CRUD-Spring-Boot/actions/workflows/maven.yml/badge.svg)](https://github.com/Thalles-Eduardo/CRUD-Spring-Boot/actions/workflows/maven.yml)
 
 Foi desenvolvido e explicado como construir um CRUD (create, read, update e delete), a base de todo desenvolvedor.
 
